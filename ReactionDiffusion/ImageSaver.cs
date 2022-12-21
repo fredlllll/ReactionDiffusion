@@ -1,7 +1,7 @@
 ﻿using SixLabors.ImageSharp.PixelFormats;
 using System.Collections.Concurrent;
 
-namespace LaplaceDiffusion
+namespace ReactionDiffusion
 {
     public class ImageSaver
     {

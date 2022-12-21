@@ -1,4 +1,4 @@
-﻿namespace LaplaceDiffusion
+﻿namespace ReactionDiffusion
 {
     public class ABPixel : IPixel
     {
